@@ -13,6 +13,10 @@ A Python script that pulls recent security events from the Windows
 Security log and prints them in labeled sections. Useful for quickly
 reviewing login activity and spotting suspicious events on a Windows host.
 ===================================================================================
+## Port Scanner
+A Python script that checks a target IP for common open TCP ports.
+Useful for quickly seeing which services a host is exposing.
+===================================================================================
 
 ### Requirements
 - Windows
