@@ -17,8 +17,3 @@ reviewing login activity and spotting suspicious events on a Windows host.
 ### Requirements
 - Windows
 - Python 3
-
-
-### Disclaimer
-For educational use and authorized testing only. Only run this on
-systems you own or have permission to assess.
